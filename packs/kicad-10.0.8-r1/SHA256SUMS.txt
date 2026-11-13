@@ -1,0 +1,3 @@
+cd4bb2f0c039bfca771423b8cc53e80b20d31de996ed122ccabb1ef3c5afb3c3  circuitcraft-kicad-10.0.8-r1-libraries.zip
+ec0f232546b39765a9151d2fb17b6551c18a46e39056888eccf8edec3e4d9d7c  circuitcraft-kicad-10.0.8-r1-3dmodels.zip
+acb147f1f836efd003d3aa4a1d443661457a57fffca12e4492836938023c6393  pack.json

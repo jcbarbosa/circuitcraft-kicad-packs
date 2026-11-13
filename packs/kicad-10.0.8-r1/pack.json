@@ -1,0 +1,49 @@
+{
+  "pack": "kicad-10.0.8-r1",
+  "format": 1,
+  "kicad_version": "10.0.8",
+  "revision": 1,
+  "built": "2026-11-13",
+  "converter": "circuitcraft-cli 1.18.0 (682f61a2e)",
+  "licence": "CC-BY-SA-4.0 with the KiCad libraries exception",
+  "sources": {
+    "symbols": {
+      "repository": "https://gitlab.com/kicad/libraries/kicad-symbols",
+      "tag": "10.0.8",
+      "commit": "45efbd93be87e365a21d743daf9b8a07e6414df6"
+    },
+    "footprints": {
+      "repository": "https://gitlab.com/kicad/libraries/kicad-footprints",
+      "tag": "10.0.8",
+      "commit": "a337146e090931ad1176e20ed0b7100990fac5fa"
+    },
+    "models": {
+      "repository": "https://gitlab.com/kicad/libraries/kicad-packages3D",
+      "tag": "10.0.8",
+      "commit": "8975715167d1a76f9b44be155ac02326f704cdbb"
+    }
+  },
+  "contents": {
+    "libraries": 356,
+    "components": 22911,
+    "footprints": 15468,
+    "models": 7256,
+    "attribution_documents": 49
+  },
+  "files": [
+    {
+      "name": "circuitcraft-kicad-10.0.8-r1-libraries.zip",
+      "bytes": 19713946,
+      "sha256": "cd4bb2f0c039bfca771423b8cc53e80b20d31de996ed122ccabb1ef3c5afb3c3",
+      "entries": 360,
+      "unpacked_bytes": 422324367
+    },
+    {
+      "name": "circuitcraft-kicad-10.0.8-r1-3dmodels.zip",
+      "bytes": 644681740,
+      "sha256": "ec0f232546b39765a9151d2fb17b6551c18a46e39056888eccf8edec3e4d9d7c",
+      "entries": 7306,
+      "unpacked_bytes": 3368026641
+    }
+  ]
+}
